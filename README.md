@@ -68,7 +68,7 @@ I am a **Passionate Programmer** and **Quant Developer** with over **5+ years of
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **👩‍💻 SitRight ** | SitRight AI is the smart, real-time posture monitoring tool designed to tackle this problem head-on.  | `Python` `CUDA` `yolov5` |
+| **👩‍💻 SitRight** | SitRight AI is the smart, real-time posture monitoring tool designed to tackle this problem head-on.  | `Python` `CUDA` `yolov5` |
 | **📩 Gmail AI** | AI-powered email management Let AI handle the sorting while you focus on what matters. | `Python` `React.js` `AI agent` |
 | **🛡️ PC Doctor** | An intelligent PC diagnostic tool that analyzes your system performance and provides AI-powered recommendations using Google Gemini. | `Python` `flask` `AI agent` |
 
