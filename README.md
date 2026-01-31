@@ -28,12 +28,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Passionate Programmer** and **Quant Developer** with over **5+ years of experience** in solving complex problems across **AI, Machine Learning, and Game Development**. My core focus lies in the Indian Stock Market, where I design and build sophisticated algorithmic trading platforms, data scrapers, and automation bots.
+I am a **Passionate Programmer** and **Quant Developer** with over **5+ years of experience** in solving complex problems across **AI, Machine Learning, and Game Development**. My core focus lies in the Indian Stock Market, where I design and build sophisticated algorithmic trading platforms and automation bots.
 
-- 🔭 I’m currently working on **Advanced Algorithmic Trading Systems** and **AI-driven Market Sentiment Analysis**.
-- 🌱 I’m constantly learning about **Large Language Models (LLMs)** and **High-Frequency Trading** strategies.
-- 💡 I specialize in integrating APIs like **Shoonya, Angel One, and Yahoo Finance** into custom dashboards.
-- 📍 Based in **Ghaziabad, India**.
+- 🔭 I’m currently working on **Advanced Algorithmic Trading Systems**.
+- 🌱 I’m constantly learning about **Large Language Models (LLMs)** and **Trading** strategies.
+- 💡 I specialize in integrating creating statistical strategy.
+- 📍 Based in **Delhi, India**.
 
 ---
 
@@ -68,9 +68,9 @@ I am a **Passionate Programmer** and **Quant Developer** with over **5+ years of
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **📈 Algo Trading Bot** | Automated trading system for NSE/BSE using technical indicators and real-time data execution. | `Python` `Shoonya API` `WebSockets` |
-| **🛡️ Malware Slayer** | A specialized tool designed to detect and neutralize potential security threats. | `Python` `Security` `Automation` |
-| **🕷️ Financial Scraper** | High-performance scraper for aggregating market news and stock data from multiple sources. | `BeautifulSoup` `Selenium` `Pandas` |
+| **👩‍💻 SitRight ** | SitRight AI is the smart, real-time posture monitoring tool designed to tackle this problem head-on.  | `Python` `CUDA` `yolov5` |
+| **📩 Gmail AI** | AI-powered email management Let AI handle the sorting while you focus on what matters. | `Python` `React.js` `AI agent` |
+| **🛡️ PC Doctor** | An intelligent PC diagnostic tool that analyzes your system performance and provides AI-powered recommendations using Google Gemini. | `Python` `flask` `AI agent` |
 
 ---
 
